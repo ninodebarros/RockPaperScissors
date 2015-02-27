@@ -1,4 +1,4 @@
-#RockPaperScissors for Python 3.4- By Nino DeBarros
+# RockPaperScissors for Python 3.4- By Nino DeBarros
 
 import winsound #A Windows exclusive module, creates all the beeps and blonks you want!
 import tkinter
